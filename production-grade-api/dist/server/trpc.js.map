@@ -1,0 +1,1 @@
+{"version":3,"file":"trpc.js","sourceRoot":"","sources":["../../src/server/trpc.ts"],"names":[],"mappings":"AAEA,OAAO,EAAC,QAAQ,EAAC,MAAM,cAAc,CAAC;AAEtC,MAAM,CAAC,GAAG,QAAQ,CAAC,MAAM,EAAE,CAAC;AAI5B,MAAM,CAAC,MAAM,MAAM,GAAG,CAAC,CAAC,MAAM,CAAC;AAG/B,MAAM,CAAC,MAAM,eAAe,GAAG,CAAC,CAAC,SAAS,CAAC"}
